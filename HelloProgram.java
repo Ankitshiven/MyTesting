@@ -20,4 +20,8 @@ public class HelloProgram {
 			}
 		}
              }
-}
+}//Output
+:s
+:q
+:o
+
